@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+O One bit exchange, é um conversor de moedas "direto ao ponto" (pode converter uma moeda para outra rapidamente).
 
-Things you may want to cover:
+* Ruby versão
+ - 2.6.5
 
-* Ruby version
+* Ferramentas utilizadas
+ - docker
+ - docker compose
+ - Ruby on Rails
+  * Gems
+    - rest-client
+    - rspec-rails
+ - yarn
+ - postgresSQL
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
