@@ -14,4 +14,8 @@ O One bit exchange, é um conversor de moedas "direto ao ponto" (pode converter 
     - rspec-rails
  - yarn
  - postgresSQL
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 209e5bdc3704b0805d4a86d1421cc6fd03bc2d42
