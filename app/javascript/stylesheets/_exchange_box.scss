@@ -1,7 +1,9 @@
 .exchange_box{
 	
 	.card{
-		border: 0;
+		border: 30;
+		background-color: #EEE9E9;
+		border-color: #696969;
 
 		.card-header{
 			background-color: #878d99;
@@ -19,8 +21,8 @@
 			}
 
 			.btn-exchange{
-			 background-color: #5bc0de;
-			 border-color: #5bc0de;
+			 background-color:#8B8989;
+			 border-color: #696969;
 			 border-radius: 0;
 			}
 		}
